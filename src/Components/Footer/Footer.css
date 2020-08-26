@@ -1,0 +1,17 @@
+.footer{
+    background: white;
+    border-top: 1px solid ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: small;
+    padding: 10px;
+    box-shadow: 0px 0px 5px;
+}
+.footer-mid span{
+    padding-left:15px;
+    cursor: pointer;
+}
+.footer-end{
+cursor: pointer;
+}

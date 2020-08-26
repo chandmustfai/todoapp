@@ -1,0 +1,12 @@
+.d-header{
+    color: aliceblue;
+    background: #000000;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+.space-name{
+    padding-left: 10px;
+}

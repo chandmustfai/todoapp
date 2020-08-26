@@ -1,0 +1,40 @@
+.todo-form{
+margin: 10px;
+}
+.todo-form input{
+    border: none;
+    width:400px;
+    height:60px;
+    padding-left: 30px;
+    padding-right: 10px;
+    box-shadow: 0px 5px 10px ;
+}
+.todo-form input:focus{
+    outline: none
+}
+.todo-items{
+    background: white;
+}
+.item{
+display: block;
+text-align: left;
+padding: 15px;
+box-shadow: 0px 0px 2px ;
+cursor: pointer;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.add-del-icon img{
+    display: none;
+}
+.item:hover .add-del-icon img{
+    display: block;
+}
+.del-todo{
+    position: absolute;
+    top: 120px;
+    right: 490px;
+}
+    
+

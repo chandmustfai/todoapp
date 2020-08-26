@@ -1,0 +1,11 @@
+.top-nav-main nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-heading{
+    display: flex;
+}
+.nav-heading .nav-link{
+    font-size: medium;
+    color:aliceblue;
+}

@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.app-name{
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 800;
+}
+.App-header {
+  background-color: #e0e0e0;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  display: flex;
+  flex-direction: column;
+
+
+}
